@@ -1,0 +1,12 @@
+.Answer{
+    display: flex;
+}
+.Score{
+    padding: 2px;
+    margin-left: 10px;
+    width: 5%;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 5px;
+}

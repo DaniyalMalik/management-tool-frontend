@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432.854" height="90" viewBox="0 0 432.854 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8000"/>
+      <stop offset="1" stop-color="#fccb59"/>
+    </linearGradient>
+  </defs>
+  <g id="logof" transform="translate(0 0.191)">
+    <g id="Group_3992" data-name="Group 3992" transform="translate(0 15.268)">
+      <g id="Group_3954" data-name="Group 3954" transform="translate(0 0)">
+        <rect id="Rectangle_906" data-name="Rectangle 906" width="13.781" height="66.935" rx="1" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_907" data-name="Rectangle 907" width="13.781" height="41.342" rx="1" transform="translate(19.687 0)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_908" data-name="Rectangle 908" width="13.781" height="66.935" rx="1" transform="translate(39.374 0)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_909" data-name="Rectangle 909" width="13.781" height="41.342" rx="1" transform="translate(59.06 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <text id="BIZSTRUC" transform="translate(80.854 70.809)" fill="#fff" font-size="76" font-family="Rubik-Light, Rubik" font-weight="300"><tspan x="0" y="0">BIZSTRUC</tspan></text>
+  </g>
+</svg>

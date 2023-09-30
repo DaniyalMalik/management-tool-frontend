@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1938" height="1086" viewBox="0 0 1938 1086">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.312" y1="-0.44" x2="1.202" y2="1.32" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#072251"/>
+      <stop offset="1" stop-color="#456aaa"/>
+    </linearGradient>
+    <filter id="Sign_in_BG_1" x="0" y="0" width="1938" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#072251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-1.096" y1="-1.783" x2="1.202" y2="1.32" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe8000"/>
+      <stop offset="1" stop-color="#fcca58"/>
+    </linearGradient>
+  </defs>
+  <g id="login_sample_3_BG" data-name="login sample 3 BG" transform="translate(9 6)">
+    <path id="Sign_in_BG_1-2" data-name="Sign in BG 1" d="M0,0H1920V1080H0Z" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Sign_in_BG_1)">
+      <rect id="Sign_in_BG_1-3" data-name="Sign in BG 1" width="1920" height="444" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Sign_in_BG_1-4" data-name="Sign in BG 1" width="1920" height="427" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
